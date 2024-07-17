@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Task"
+        android:id="@+id/taskFragment"
+        android:icon="@drawable/ic_list"
+        />
+    <item android:title="Statistics"
+        android:id="@+id/statisticsFragment"
+        android:icon="@drawable/statistics"
+        />
+</menu>
